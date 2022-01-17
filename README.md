@@ -29,7 +29,8 @@ Biome
 Slime biome is added. You can find end city, nether fortress or bastion in overworld.
 ![image](https://user-images.githubusercontent.com/82792599/149718562-cd41398c-c24f-454a-9926-d7ffa27a4f54.png)
 I found a fortress!
-![image](https://user-images.githubusercontent.com/82792599/149718679-1b9799de-04ca-4525-af2b-e2745b3cd325.png)
+![image](https://user-images.githubusercontent.com/82792599/149718750-ba06ab31-ee52-4a03-bd10-67c15a1a5e15.png)
+
 
 
 Fun thing: If you jump with this mod, you can fly in survival also without an Elytra!
