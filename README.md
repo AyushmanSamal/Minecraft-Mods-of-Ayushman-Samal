@@ -1,5 +1,6 @@
 # Minecraft-Mods-of-Ayushman-Samal
-#Slimy World
+# Note: All mods work only with 1.17.1
+# Slimy World
 Note: SlimyWorld is the update of SlimeDimension, So don't use Slime dimension
 
 Slime dimension
